@@ -14,7 +14,7 @@ It made my learning feel like a cool game, ultimately making keeping the habit e
 
 ## Learnings
 
-- The key things I learned during the week:
+The key things I learned during the week:
 - Binding
 - Angualar Forms
 - Basic Angular CLI commands
