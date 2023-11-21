@@ -3,13 +3,21 @@
 ## Today's Progress
 
 - [x] Finished module 3 of sololearn's Angular course.
+   - Meaning that I have now done: Welcome to Angular!, Angular Basics, and Forms.
 - [x] Started module 4 of sololearn's Angular course.
+   - Routing & Navigation!
 - [x] Read through the first two lessons of The Odin Project's Foundations course.
+   - How This Course Will Work
+   - Introduction to Web Development
 
 ## Thoughts
 
 Well, I could have done more at night if I didn't have to work the night shift. 
-Note to future self, breathe and commit to one resource child.
+
+Note to future self, 
+Breathe and commit to one resource child.
+Your CSS is 🗑️
+Okay, bye.
 
 ## Links
 
