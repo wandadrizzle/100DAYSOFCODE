@@ -15,9 +15,9 @@
 Well, I could have done more at night if I didn't have to work the night shift. 
 
 Note to future self:
-$\hspace{5pt}$Breathe and commit to one resource child.
-$\hspace{5pt}$Your CSS is 🗑️.
-$\hspace{5pt}$Okay, bye.
+| Breathe and commit to one resource child.\
+Your CSS is 🗑️.\
+Okay, bye.\
 
 ## Links
 
