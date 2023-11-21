@@ -14,7 +14,7 @@
 
 Well, I could have done more at night if I didn't have to work the night shift. 
 
-Note to future self,\
+_Note to future self,_\
 Breathe and commit to one resource child.\
 Your CSS is 🗑️.\
 Okay, bye.
