@@ -2,9 +2,9 @@
 
 ## Today's Progress
 
-- [ ] Finished module 3 of sololearn's Angular course.
-- [ ] Started module 4 of sololearn's Angular course.
-- [ ] Read through the first two lessons of The Odin Project's Foundations course.
+- [x] Finished module 3 of sololearn's Angular course.
+- [x] Started module 4 of sololearn's Angular course.
+- [x] Read through the first two lessons of The Odin Project's Foundations course.
 
 ## Thoughts
 
@@ -13,7 +13,7 @@ Note to future self, breathe and commit to one resource child.
 
 ## Links
 
-- [Link to project repository or relevant code files]
+- https://www.sololearn.com/learn/courses/angular?location=2
 - https://www.theodinproject.com/paths/foundations/courses/foundations
 
 ## Plans for Tomorrow
@@ -24,7 +24,7 @@ FINISH THAT ANGULAR COURSE, THAT WAS A WEEKEND GOAL GIRL!
 # Daily Coding Log - 21 November 2023 - DAY 009
 ## Today's Progress
 
-- [ ] I finished sololearn's Angular course.
+- [x] I finished sololearn's Angular course.
 
 ## Thoughts
 
