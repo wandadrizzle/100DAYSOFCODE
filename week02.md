@@ -14,12 +14,11 @@
 
 Well, I could have done more at night if I didn't have to work the night shift. 
 
-<dl>
-   <dt>Note to future self:</dt>
-   <dd>Breathe and commit to one resource child.</dd>
-   <dd>Your CSS is 🗑️</dd>
-   <dd>Okay, bye.</dd>
-</dl>
+Note to future self:
+$\hspace{5pt}$Breathe and commit to one resource child.
+$\hspace{5pt}$Your CSS is 🗑️.
+$\hspace{5pt}$Okay, bye.
+
 ## Links
 
 - https://www.sololearn.com/learn/courses/angular?location=2
