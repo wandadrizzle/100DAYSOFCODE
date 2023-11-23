@@ -41,3 +41,24 @@ I finished my first course, I already want to revise some of the topics I studie
 
 PS: Here's my certificate as evidence.
 ![Coding Image](sololearn-angular.jpg)
+
+---
+# Daily Coding Log - 22 November 2023 - DAY 010
+## Today's Progress
+
+Today was a slow day, I got caught up in my sister's birthday celebrations and didn't plan my time well. I coded at work, so that's something.
+- [x] Foundations Course - Asking for Help chapter, I did all readings.
+
+## Thoughts
+
+TIME MANAGEMENT. TIME MANAGEMENT. TIME MANAGEMENT. TIME MANAGEMENT. TIME MANAGEMENT.TIME MANAGEMENT.
+
+---
+# Daily Coding Log - 23 November 2023 - DAY 011
+## Today's Progress
+
+Courses give me structure so I'll be going through WHATEVER The Odin Project says I should do.
+- [x] Foundations Course - Introduction: Join the Odin Community.
+
+## Thoughts
+
