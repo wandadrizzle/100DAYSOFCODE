@@ -9,5 +9,8 @@
   3. What are JavaScript engines
   4. What ES version of JavaScript is Good for us
  
--w3schools.com | JS Tutorial
--freecodecamp.org | JavaScript Algorithms and Data Structures course
+- w3schools.com | JS Tutorial
+  - JS Introduction, Where To, Output, Statements, Syntax, Comments, Variables, Let, Const
+
+- freecodecamp.org | JavaScript Algorithms and Data Structures course
+  - I did the first 10 lessons of Basic JavaScript
