@@ -14,3 +14,8 @@
 
 - freecodecamp.org | JavaScript Algorithms and Data Structures course
   - I did the first 10 lessons of Basic JavaScript
+ 
+- web.dev Learn HTML
+  - Overview of HTML
+  - Document structure
+  - Metadata
