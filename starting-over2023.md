@@ -19,3 +19,8 @@
   - Overview of HTML
   - Document structure
   - Metadata
+
+## Day 003 - 13 December 2023
+- mdn web docs
+  - Styling the web (https://developer.mozilla.org/en-US/docs/Learn/CSS)
+      - CSS first steps
