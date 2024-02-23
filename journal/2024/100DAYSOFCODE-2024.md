@@ -5,7 +5,7 @@ Even though I am posting every other day, it doesn't mean that I am only doing c
 
 As I go through this challenge, I'd like to essentially commit to a language or framework - to sit down and focus on one thing but I keep getting distracted. I cannot justify my C interest. I even have a certificate to show for it.
 
-![Exhibit B](../../certificates/sololearn-introduction-to-c.jpg)
+![Exhibit B](../../acertificates/sololearn-introduction-to-c.jpg)
 
 Why? Just why? Anyway, I think that's it from me for now. (23 February 2024, 09:40)
 
