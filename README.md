@@ -7,3 +7,7 @@ You can follow me on following socials if you wanna.
 [<img src="assets/svg/x-twitter.svg" alt="Twitter" width="30" height="30">](https://twitter.com/wandadrizzle)
 [<img src="assets/svg/replit.svg" alt="Replit" width="30" height="30">](https://replit.com/@sindiswasm072)
 
+---
+
+Here are my #100DaysOfCode repo links:
+- [SoloLearn's Coding Foundations](https://github.com/wandadrizzle/Coding-Foundations-SoloLearn)
