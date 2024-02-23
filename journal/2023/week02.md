@@ -40,7 +40,7 @@ I need to start using my commute times better. Should I not read or listing to c
 I finished my first course, I already want to revise some of the topics I studied. That'd be good idea, no?
 
 PS: Here's my certificate as evidence.
-![Coding Image](assets\certificates\sololearn-angular.jpg)
+![Coding Image](../assets/certificates/sololearn-angular.jpg)
 
 ---
 # Daily Coding Log - 22 November 2023 - DAY 010
