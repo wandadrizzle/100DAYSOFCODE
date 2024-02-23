@@ -1,11 +1,11 @@
 ##23 February 2024 (005)
 Even though I am posting every other day, it doesn't mean that I am only doing coding related things every other day. With nothing else to show I will now give you this shabby screenshot.
 
-![Exhibit A](../../assets/screenshots/95 DAYS TO GO!.png)
+![Exhibit A](../../assets/screenshots/five-days-in.png)
 
 As I go through this challenge, I'd like to essentially commit to a language or framework - to sit down and focus on one thing but I keep getting distracted. I cannot justify my C interest. I even have a certificate to show for it.
 
-![Exhibit B](../../acertificates/sololearn-introduction-to-c.jpg)
+![Exhibit B](../../sssets/acertificates/sololearn-introduction-to-c.jpg)
 
 Why? Just why? Anyway, I think that's it from me for now. (23 February 2024, 09:40)
 
