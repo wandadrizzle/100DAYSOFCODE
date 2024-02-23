@@ -10,7 +10,7 @@ As I go through this challenge, I'd like to essentially commit to a language or 
 Why? Just why? Anyway, I think that's it from me for now. (23 February 2024, 09:40)
 
 ## 21 February 2024 (day 003)
-3 days ago I started SoloLearn's Coding Foundations and have completed the first 4 units 
+3 days ago I started [SoloLearn's Coding Foundations](https://github.com/wandadrizzle/Coding-Foundations-SoloLearn) and have completed the first 4 units 
 - Getting Started with HTML
 - Going Deeper with HTML
 - Using Attributes
