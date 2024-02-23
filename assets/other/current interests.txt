@@ -6,3 +6,9 @@
 4. MongoDB, mySQL
 5. Python
 6. C and C++ because girl be curious
+7. LateX
+8. Figma
+9. Firebase
+
+
+Here's a somewhat pressing goal: 8 July 2024 - be a better frontend human
