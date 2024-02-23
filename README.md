@@ -4,6 +4,6 @@ My name is Sindiswa Mkhize, I dream of being an impressive self-taught developer
 
 You can follow me on following socials if you wanna.
 
-[<img src="assets/svg/x-twitter.svg" alt="Twitter" width="30" height="30">](https://twitter.com/wandadrizzle)
-[<img src="assets/svg/replit.svg" alt="Replit" width="30" height="30">](https://replit.com/@sindiswasm072)
+[<img src="assets/svg/x-twitter.svg" alt="Twitter" width="30" height="30">](https://twitter.com/wandadrizzle){:target="_blank"}
+[<img src="assets/svg/replit.svg" alt="Replit" width="30" height="30">](https://replit.com/@sindiswasm072){:target="_blank"}
 
