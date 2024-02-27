@@ -4,9 +4,9 @@ Getting a certificate with one's name on is nice. So, I worked on getting anothe
 Now I just need to work on getting something with a little bit more significance and relevance. Something that will match and align with my web-developer goals. Doesn't LinkedIn Learning have something?
 
 It is 15:45 and I am back to say that I found some things to go through in LinkedIn Learning
-- [x] **Introduction to Web Design and Development**
+- [x] [**Introduction to Web Design and Development**](../../assets/pdf/COC-Introduction-to-Web-Design-and-Development.pdf)
 - [ ] **Starting Your Career in Tech: Software Development**
-  - [x] Course: Getting Started with Technology: Think Like an Engineer
+  - [x] [Course: Getting Started with Technology: Think Like an Engineer](../../assets/pdf/COC-Getting-Started-with-Technology-Think-Like-an-Engineer.pdf)
   - [ ] Course: Writing a Tech Resume
   - [ ] Course: Tech Career Skills: Searching, Interviewing, and Landing a Job
   - [ ] Course: Rock Your LinkedIn Profile
