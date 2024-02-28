@@ -1,3 +1,26 @@
+## 28 February 2024 (010)
+Here's the plan: 
+
+- [ ] Start and finish Sololearn's [Web Development full learning path](https://www.sololearn.com/en/learn/courses/web-development?location=2)
+  - [x] Getting Started with HTML
+  - [ ] Going Deeper with HTML
+  - [ ] Using Attributes
+  - [ ] Mastering HTML
+  - [ ] Getting Started with CSS
+  - [ ] Styling Elements
+  - [ ] Page Design and Layout
+  - [ ] Transitions & Transforms
+  - [ ] Welcome to JavaScript
+  - [ ] Going Deeper with JavaScript
+  - [ ] Working with Data
+  - [ ] Control Flow
+- [ ] Finish **Starting Your Career in Tech: Software Development**
+  - [x] Course: Writing a Tech Resume
+  - [ ] Course: Tech Career Skills: Searching, Interviewing, and Landing a Job
+  - [ ] Course: Rock Your LinkedIn Profile
+  - [ ] Course: Tech Career Skills: Effective Technical Communication
+  - [ ] Course: Developer Career Paths and Certifications
+
 ## 27 February 2024 (009)
 Getting a certificate with one's name on is nice. So, I worked on getting another. Here it is...
 ![A certificate for vibes](../../assets/certificates/sololearn-coding-foundations.jpg)
