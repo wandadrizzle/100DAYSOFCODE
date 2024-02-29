@@ -1,4 +1,4 @@
-# Do I have a course problem or are you just GOOD at finding resources?
+# Do I have a course problem or am I just GOOD at finding resources?
 
 ## Developer
  - [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
