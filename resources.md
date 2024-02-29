@@ -16,3 +16,7 @@
 ## Flutter
 - [The Official Flutter Docs](https://docs.flutter.dev/)
 - [Flutter Course for Beginners](https://www.youtube.com/watch?v=VPvVD8t02U8) (video)
+
+## Python
+- [Beginner’s Python Tutorial: Learn Python](https://python.land/python-tutorial)
+- [Dataquest](https://www.dataquest.io/) for Python for data science
