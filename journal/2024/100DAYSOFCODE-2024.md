@@ -1,3 +1,17 @@
+## 29 February 2024
+So, I finished LinkedIn's **Starting Your Career in Tech: Software Development** learning path
+  - [x] Course: Writing a Tech Resume
+  - [x] Course: Tech Career Skills: Searching, Interviewing, and Landing a Job
+  - [x] Course: Rock Your LinkedIn Profile
+  - [x] Course: Tech Career Skills: Effective Technical Communication
+  - [x] Course: Developer Career Paths and Certifications
+
+Here's the evidence.
+
+![LinkedIn Certificate of Completion](../../assets/certificates/COC-Starting-Your-Career-in-Tech.PNG)
+
+Today I started another learning path that is titled **Become a Programmer: Foundations**. Do I feel like I am doing things in a weird order? Yes. However, I also believe that these things MUST BE done! Another thing I'll definitely need to make time for is - learning how to learn. I am grateful for ChatGPT but I want to be a real developer that uses the internet for reference and NOT be stuck when the internet is down! 
+
 ## 28 February 2024 (010)
 Here's the plan: 
 
