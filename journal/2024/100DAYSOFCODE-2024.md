@@ -1,3 +1,12 @@
+## 04 March 2024 (015?)
+My SoloLearn streak is on 15, does this mean that I have been on my 100 day journey for 15 days or is there some discrepancy here? Anyway, I finished another SoloLearn course - as for why it wasn't web dev specific, well... that's because the person doing [the LinkedIn course I am currently doing](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) decided to tech programming foundations using Python. 
+
+![SoloLearn's Introduction to Python certificate](../../assets/certificates/sololearn-introduction-to-python.jpg)
+
+This week's goals include, but are not limited to:
+ - [ ] Finishing this LinkedIn learning path - [Become a Programmer: Foundations](https://www.linkedin.com/learning/paths/become-a-programmer-foundations)
+ - [ ] Starting and completing SoloLearn's [Python Intermediate](https://www.sololearn.com/en/learn/courses/python-intermediate) course
+ - [ ] Completing SoloLearn's [Web Development](https://www.sololearn.com/en/learn/courses/web-development?location=2) course
 ## 29 February 2024
 So, I finished LinkedIn's **Starting Your Career in Tech: Software Development** learning path
   - [x] Course: Writing a Tech Resume
