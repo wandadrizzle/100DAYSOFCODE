@@ -5,6 +5,9 @@ It's 12:25 and after some lazing around I have finally finished it! You can find
 
 ![Programming Foundations: Fundamentals COC](../../assets/screenshots/programming-foundations-fundamentals.PNG)
 
+It's 16:00 and I just finished SoloLearn's Intermediate course. Felt like I needed to finish it before spending time with Sasha Vodnik, the [Programming Foundations: Beyond Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) instructor.
+
+![Python Intermediate](../../assets/certificates/sololearn-python-intermediate.jpg)
 ## 04 March 2024 (015?)
 My SoloLearn streak is on 15, does this mean that I have been on my 100 day journey for 15 days or is there some discrepancy here? Anyway, I finished another SoloLearn course - as for why it wasn't web dev specific, well... that's because the person doing [the LinkedIn course I am currently doing](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) decided to tech programming foundations using Python. 
 
