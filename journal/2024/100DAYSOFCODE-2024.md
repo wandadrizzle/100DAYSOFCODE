@@ -1,3 +1,6 @@
+## 05 March 2024 (016)
+It's 10:15 and I finished the first 2 modules of SoloLearn's Python Intermediate. I really want to finish it so that I can officially rid myself of this Python itch. However, at the same time my LinkedIn course awaits. I need to finish [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3) today!
+
 ## 04 March 2024 (015?)
 My SoloLearn streak is on 15, does this mean that I have been on my 100 day journey for 15 days or is there some discrepancy here? Anyway, I finished another SoloLearn course - as for why it wasn't web dev specific, well... that's because the person doing [the LinkedIn course I am currently doing](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) decided to tech programming foundations using Python. 
 
