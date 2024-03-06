@@ -1,3 +1,19 @@
+## 05 March 2024 (017)
+When the week started I said that my plans are not limited to the following, this is my progress as of the 6th of March 2024, 07:10.
+This week's goals include, but are not limited to:
+ - [ ] Finishing this LinkedIn learning path - [Become a Programmer: Foundations](https://www.linkedin.com/learning/paths/become-a-programmer-foundations), I am on the 2nd course. Which means nothing considering there are 13 in total. 
+ - [x] Starting and completing SoloLearn's [Python Intermediate](https://www.sololearn.com/en/learn/courses/python-intermediate) course
+ - [ ] Completing SoloLearn's [Web Development](https://www.sololearn.com/en/learn/courses/web-development?location=2) course, TBH I haven't touched it.
+
+Am I distracted? Yes, knowing about so many resources is weird.
+ - [HackerRank](https://www.hackerrank.com/dashboard)
+ - [LeetCode](https://leetcode.com/explore/)
+ - [codecademy](https://www.codecademy.com/)
+
+It now seems like I can't avoid React even though when the year started I was set on just focusing on the Angular framework. My current python phase feels like a distraction. However, since I am set on doing this the hard-and-long way during this learning "sprint" I'll allow it - I can already see how helpful it will be when I finally make the time to do a data analytics course. Oh, as if I haven't been swayed enough from my web development goals - I saw an @dart_lang tweet talking about a [Google summer mentorship program](https://summerofcode.withgoogle.com/programs/2024/organizations/dart). That really made me miss Flutter. Maybe I should apply, the deadline is on the 2nd of April. Entlek, how does one apply? Do I read [this](https://github.com/dart-lang/sdk/wiki/Dart-GSoC-2024-Project-Ideas) and cold-call a potential mentor and say "Hey, I want to do the thing you proposed with you."? Ngathi impendulo [ila](https://summerofcode.withgoogle.com/). Anyway, this happened in the AMs.
+
+![The certificate that I should have started with.](../../assets/certificates/sololearn-tech-for-everyone.png)
+
 ## 05 March 2024 (016)
 It's 10:15 and I finished the first 2 modules of SoloLearn's Python Intermediate. I really want to finish it so that I can officially rid myself of this Python itch. However, at the same time my LinkedIn course awaits. I need to finish [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3) today!
 
