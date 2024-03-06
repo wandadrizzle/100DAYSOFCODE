@@ -14,6 +14,7 @@ It now seems like I can't avoid React even though when the year started I was se
 
 ![The certificate that I should have started with.](../../assets/certificates/sololearn-tech-for-everyone.png)
 
+It's 08:55 and I have realised something - by the end of the 100 days I'll be a markdown and GitHub aficionado. If you'd like to see a robot dancing CLICK [HERE](https://wandadrizzle.github.io/sololearn-tech-for-everyone/).
 ## 05 March 2024 (016)
 It's 10:15 and I finished the first 2 modules of SoloLearn's Python Intermediate. I really want to finish it so that I can officially rid myself of this Python itch. However, at the same time my LinkedIn course awaits. I need to finish [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3) today!
 
