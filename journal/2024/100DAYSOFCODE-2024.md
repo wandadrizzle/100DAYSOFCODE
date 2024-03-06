@@ -1,4 +1,4 @@
-## 05 March 2024 (017)
+## 06 March 2024 (017)
 When the week started I said that my plans are not limited to the following, this is my progress as of the 6th of March 2024, 07:10.
 This week's goals include, but are not limited to:
  - [ ] Finishing this LinkedIn learning path - [Become a Programmer: Foundations](https://www.linkedin.com/learning/paths/become-a-programmer-foundations), I am on the 2nd course. Which means nothing considering there are 13 in total. 
@@ -18,6 +18,9 @@ It's 08:55 and I have realised something - by the end of the 100 days I'll be a 
 
 Should I?
 [![Thinking about a Python deep dive.](../../assets/screenshots/no-python-regrets.PNG)](https://replit.com/learn/100-days-of-python)
+
+It's 12:25 and there, done. This is wild but why don't the certificates use MY time zone?
+![Course 2/13 - kancane kancane kuzolunga](../../assets/screenshots/programming-foundations-beyond-the-fundamentals.PNG)
 ## 05 March 2024 (016)
 It's 10:15 and I finished the first 2 modules of SoloLearn's Python Intermediate. I really want to finish it so that I can officially rid myself of this Python itch. However, at the same time my LinkedIn course awaits. I need to finish [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3) today!
 
