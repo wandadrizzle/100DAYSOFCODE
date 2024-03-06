@@ -21,6 +21,21 @@ Should I?
 
 It's 12:25 and there, done. This is wild but why don't the certificates use MY time zone?
 ![Course 2/13 - kancane kancane kuzolunga](../../assets/screenshots/programming-foundations-beyond-the-fundamentals.PNG)
+
+I need to see how much of the learning path is left
+- [x] 1. Programming Foundations: Fundamentals
+- [x] 2. Programming Foundations: Beyond the Fundamentals
+- [ ] 3. Programming Foundations: Real-World Examples
+- [ ] 4. Programming Foundations: Object-Oriented Design
+- [ ] 5. Programming Foundations: Algorithms
+- [ ] 6. Programming Foundations: Data Structures
+- [ ] 7. Programming Foundations: Design Patterns
+- [ ] 8. Programming Foundations: Databases
+- [ ] 9. Programming Foundations: Memory, Pointers, and Garbage Collection
+- [ ] 10. Programming Foundations: APIs and Web Services
+- [ ] 11. Programming Foundations: Secure Coding
+- [ ] 12. Programming Foundations: Test-Driven Development
+- [ ] 13. Programming Foundations: Software Testing/QA
 ## 05 March 2024 (016)
 It's 10:15 and I finished the first 2 modules of SoloLearn's Python Intermediate. I really want to finish it so that I can officially rid myself of this Python itch. However, at the same time my LinkedIn course awaits. I need to finish [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3) today!
 
