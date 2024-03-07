@@ -1,3 +1,11 @@
+## 07 March 2024 (018)
+
+Today's to-do list:
+
+1. Read Make it Stick by Peter C. Brown (Preface & 1. Learning is Misunderstood)
+2. Start and finish SoloLearn's Web Development course
+3. Do an hour's worth of a LinkedIn Learning course - Programming Foundations: Real-World Examples
+
 ## 06 March 2024 (017)
 When the week started I said that my plans are not limited to the following, this is my progress as of the 6th of March 2024, 07:10.
 This week's goals include, but are not limited to:
