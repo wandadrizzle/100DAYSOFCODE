@@ -6,6 +6,9 @@ Today's to-do list:
 2. Start and finish SoloLearn's Web Development course
 3. Do an hour's worth of a LinkedIn Learning course - Programming Foundations: Real-World Examples
 
+Today feels like a quiet day, I have ensured to not break my SoloLearn streak but I am starting to doubt it as a learning tool. Anyway [today's reading](https://www.goodreads.com/user_status/show/801127169) was very enlightening. I plan to use the tricks they taugh as I go about learning Python, and the other languages that I MUST eventually revist.
+
+>The good news is that we now know of simple and practical strategies that anybody can use, at any point in life, to learn better and remember longer: various forms of retrieval practice, such as low-stakes quizzing and self-testing, spacing out practice, interleaving the practice of different but related topics or skills, trying to solve a problem before being taught the solution, distilling the underlying principles or rules that differentiate types of problems, and so on.
 ## 06 March 2024 (017)
 When the week started I said that my plans are not limited to the following, this is my progress as of the 6th of March 2024, 07:10.
 This week's goals include, but are not limited to:
