@@ -2,7 +2,7 @@
 
 Today's to-do list:
 
-1. Read Make it Stick by Peter C. Brown (Preface & 1. Learning is Misunderstood)
+1. ~~Read Make it Stick by Peter C. Brown (Preface & 1. Learning is Misunderstood)~~
 2. Start and finish SoloLearn's Web Development course
 3. Do an hour's worth of a LinkedIn Learning course - Programming Foundations: Real-World Examples
 
