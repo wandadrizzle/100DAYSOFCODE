@@ -8,7 +8,7 @@ Today's to-do list, made at 08:20
 - Keeping track of SoloLearn progress: 
   - [x] Getting Started with HTML
   - [x] Going Deeper with HTML
-  - [ ] Using Attributes - where I am starting today
+  - [x] Using Attributes - where I am starting today
   - [ ] Mastering HTML
   - [ ] Getting Started with CSS
   - [ ] Styling Elements
@@ -33,6 +33,14 @@ Today's to-do list, made at 08:20
   - [ ] 11. Error Handling
   - [ ] 12. Polling and Event-Driven Programming
   - [ ] Conclusion
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) - I got distracted and decided to try and keep track of this too, I REALLY NEED to revisit this!
+  - [x] Write Your First Code Using C#
+  - [x] Create and Run Simple C# Console Applications
+  - [ ] Add Logic to C# Console Applications - 6/8
+  - [ ] Work with Variable Data in C# Console Applications
+  - [ ] Create Methods in C# Console Applications
+  - [ ] Debug C# Console Applications
+  - [ ] Foundational C# with Microsoft Certification Exam
 - The notes I made while doing the Web Development course are [HERE](https://replit.com/@sindiswasm072?path=folder/Web%20Development%20with%20SoloLearn).
 - Other relevant resourses, podcasts and lessons viewed today:
   - [Are SPAs better than MPAs? | HTTP 203](https://www.youtube.com/watch?v=ivLhf3hq7eM)
