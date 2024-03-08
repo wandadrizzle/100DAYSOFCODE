@@ -1,3 +1,10 @@
+## 08 March 2024
+
+Today's to-do list, made at 08:20
+1. Read Make it Stick by Peter C. Brown (2. To Learn, Retrieve & 3. Mix Up Your Practice)
+2. Finish SoloLearn's Web Development course
+3. Finish a LinkedIn Learning course - Programming Foundations: Real-World Examples
+
 ## 07 March 2024 (018)
 
 Today's to-do list:
