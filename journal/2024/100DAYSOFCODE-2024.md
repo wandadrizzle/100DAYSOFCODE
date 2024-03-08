@@ -5,6 +5,37 @@ Today's to-do list, made at 08:20
 2. Finish SoloLearn's Web Development course
 3. Finish a LinkedIn Learning course - Programming Foundations: Real-World Examples
 
+- Keeping track of SoloLearn progress: 
+  - [x] Getting Started with HTML
+  - [x] Going Deeper with HTML
+  - [ ] Using Attributes - where I am starting today
+  - [ ] Mastering HTML
+  - [ ] Getting Started with CSS
+  - [ ] Styling Elements
+  - [ ] Page Design and Layout
+  - [ ] Transitions & Transforms
+  - [ ] Welcome to JavaScript
+  - [ ] Going deeper with JavaScript
+  - [ ] Working with Data
+  - [ ] Control Flow
+- Keeping track of LinkedIn Learning progress:
+  - [x] Intoduction
+  - [x] 1. Functions
+  - [x] 2. Objects
+  - [x] 3. Class Inheritance
+  - [x] 4. Modules and Packages
+  - [x] 5. Lists and Tuples
+  - [x] 6. Queues and Stacks
+  - [ ] 7. Sets - where I am starting today
+  - [ ] 8. Dictionaries
+  - [ ] 9. Conditional Execution
+  - [ ] 10. Loops
+  - [ ] 11. Error Handling
+  - [ ] 12. Polling and Event-Driven Programming
+  - [ ] Conclusion
+- The notes I made while doing the Web Development course are [HERE](https://replit.com/@sindiswasm072?path=folder/Web%20Development%20with%20SoloLearn).
+- Other relevant resourses, podcasts and lessons viewed today:
+  - [Are SPAs better than MPAs? | HTTP 203](https://www.youtube.com/watch?v=ivLhf3hq7eM)
 ## 07 March 2024 (018)
 
 Today's to-do list:
