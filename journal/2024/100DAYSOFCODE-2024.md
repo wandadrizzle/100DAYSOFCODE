@@ -3,7 +3,7 @@
 Today's to-do list, made at 08:20
 1. Read Make it Stick by Peter C. Brown (2. To Learn, Retrieve & 3. Mix Up Your Practice)
 2. Finish SoloLearn's Web Development course
-3. Finish a LinkedIn Learning course - Programming Foundations: Real-World Examples
+3. ~~Finish a LinkedIn Learning course - Programming Foundations: Real-World Examples~~
 
 - Keeping track of SoloLearn progress: 
   - [x] Getting Started with HTML
@@ -26,13 +26,13 @@ Today's to-do list, made at 08:20
   - [x] 4. Modules and Packages
   - [x] 5. Lists and Tuples
   - [x] 6. Queues and Stacks
-  - [ ] 7. Sets - where I am starting today
-  - [ ] 8. Dictionaries
-  - [ ] 9. Conditional Execution
-  - [ ] 10. Loops
-  - [ ] 11. Error Handling
-  - [ ] 12. Polling and Event-Driven Programming
-  - [ ] Conclusion
+  - [x] 7. Sets - where I am starting today
+  - [x] 8. Dictionaries
+  - [x] 9. Conditional Execution
+  - [x] 10. Loops
+  - [x] 11. Error Handling
+  - [x] 12. Polling and Event-Driven Programming
+  - [x] Conclusion
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) - I got distracted and decided to try and keep track of this too, I REALLY NEED to revisit this!
   - [x] Write Your First Code Using C#
   - [x] Create and Run Simple C# Console Applications
@@ -44,6 +44,9 @@ Today's to-do list, made at 08:20
 - The notes I made while doing the Web Development course are [HERE](https://replit.com/@sindiswasm072?path=folder/Web%20Development%20with%20SoloLearn).
 - Other relevant resourses, podcasts and lessons viewed today:
   - [Are SPAs better than MPAs? | HTTP 203](https://www.youtube.com/watch?v=ivLhf3hq7eM)
+ 
+It's 12 and only one of my 3 goals for the day is done. Am I working too slowly?
+![certificate of completion](../../assets/screenshots/programming-foundations-realworld-examples.PNG)
 ## 07 March 2024 (018)
 
 Today's to-do list:
