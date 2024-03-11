@@ -1,3 +1,32 @@
+## 11 March 2024 (022)
+Before I say what my plans for the week are perhaps I should quickly mention what I was up to during the weekend. Well, my laptop is dying and takes too long to start up so for the most part I did SoloLearn lessons using my phone. It paid off some-what...
+
+![Introduction to C# COC](../../assets/certificates/sololearn-introduction-to-csharp.jpg)
+![Introduction to SQL COC](../../assets/certificates/sololearn-introduction-to-sql.jpg)
+
+Yesterday, the 10th of March 2024, I declares on [X](https://twitter.com/wandadrizzle/status/1766896181827785179) that these are my goals for the week:
+
+ - To not break my #Replit100DaysOfCode and @sololearn streaks
+ - Finish reading 'Make it Stick'
+ - Do 3 @LeetCode problems (Python or C#)
+ - Revise HTML and CSS (build something?)
+
+The above is what I'll be working on.
+
+SoloLearn courses that are "In Progress":
+ - [ ] Web Development
+ - [ ] Python Developer
+ - [ ] C# Intermediate
+ - [ ] Introduction to C++
+ - [ ] Front-end for Beginners
+
+
+Courses that I still want to add that do:
+ - Coding for Data
+ - Intermediate Angular
+ - C Intermediate
+ - C++ Intermediate
+ - SQL Intermediate
 ## 08 March 2024
 
 Today's to-do list, made at 08:20
