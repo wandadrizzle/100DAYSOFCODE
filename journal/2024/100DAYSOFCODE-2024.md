@@ -28,6 +28,22 @@ Courses that I still want to add that do:
  - SQL Intermediate
 
 I think I am a little distracted. Why am I contemplating getting a Cybersecurity course just because I heard someone mention it?
+
+16:05
+
+I am out of SoloLearn hearts! ;( 
+  - [x] Getting Started with HTML
+  - [x] Going Deeper with HTML
+  - [x] Using Attributes - where I am starting today
+  - [x] Mastering HTML
+  - [x] Getting Started with CSS
+  - [ ] Styling Elements - hearts finished sengila
+  - [ ] Page Design and Layout
+  - [ ] Transitions & Transforms
+  - [ ] Welcome to JavaScript
+  - [ ] Going deeper with JavaScript
+  - [ ] Working with Data
+  - [ ] Control Flow
 ## 08 March 2024
 
 Today's to-do list, made at 08:20
