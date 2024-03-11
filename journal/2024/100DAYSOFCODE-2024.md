@@ -4,7 +4,7 @@ Before I say what my plans for the week are perhaps I should quickly mention wha
 ![Introduction to C# COC](../../assets/certificates/sololearn-introduction-to-csharp.jpg)
 ![Introduction to SQL COC](../../assets/certificates/sololearn-introduction-to-sql.jpg)
 
-Yesterday, the 10th of March 2024, I declares on [X](https://twitter.com/wandadrizzle/status/1766896181827785179) that these are my goals for the week:
+Yesterday, the 10th of March 2024, I declared on [X](https://twitter.com/wandadrizzle/status/1766896181827785179) that these are my goals for the week:
 
  - To not break my #Replit100DaysOfCode and @sololearn streaks
  - Finish reading 'Make it Stick'
@@ -23,10 +23,11 @@ SoloLearn courses that are "In Progress":
 
 Courses that I still want to add that do:
  - Coding for Data
- - Intermediate Angular
  - C Intermediate
  - C++ Intermediate
  - SQL Intermediate
+
+I think I am a little distracted. Why am I contemplating getting a Cybersecurity course just because I heard someone mention it?
 ## 08 March 2024
 
 Today's to-do list, made at 08:20
