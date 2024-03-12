@@ -1,3 +1,19 @@
+## 12 March 2024
+The [next certificate](https://www.sololearn.com/en/learn/courses/web-development) is proving to be a little difficult. I've barely made a dent in the course - LOOK:
+  - [x] Getting Started with HTML
+  - [x] Going Deeper with HTML
+  - [x] Using Attributes - where I am starting today
+  - [x] Mastering HTML
+  - [x] Getting Started with CSS
+  - [x] Styling Elements 
+  - [ ] Page Design and Layout - gonna start this at 10:00
+  - [ ] Transitions & Transforms
+  - [ ] Welcome to JavaScript
+  - [ ] Going deeper with JavaScript
+  - [ ] Working with Data
+  - [ ] Control Flow
+
+Wait, kanti I am half-way there! That's actually good. :)
 ## 11 March 2024 (022)
 Before I say what my plans for the week are perhaps I should quickly mention what I was up to during the weekend. Well, my laptop is dying and takes too long to start up so for the most part I did SoloLearn lessons using my phone. It paid off some-what...
 
