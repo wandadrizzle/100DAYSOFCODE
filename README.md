@@ -11,3 +11,4 @@ You can follow me on following socials if you wanna.
 
 Here are my #100DaysOfCode repo links:
 - [SoloLearn's Coding Foundations](https://github.com/wandadrizzle/Coding-Foundations-SoloLearn)
+- [SoloLearn's Web Development couse](https://github.com/wandadrizzle/web-development-recap/tree/main/sololearn)
