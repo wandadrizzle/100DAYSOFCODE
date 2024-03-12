@@ -6,9 +6,9 @@ The [next certificate](https://www.sololearn.com/en/learn/courses/web-developmen
   - [x] Mastering HTML
   - [x] Getting Started with CSS
   - [x] Styling Elements 
-  - [ ] Page Design and Layout - gonna start this at 10:00
-  - [ ] Transitions & Transforms
-  - [ ] Welcome to JavaScript
+  - [x] Page Design and Layout - gonna start this at 10:00
+  - [x] Transitions & Transforms 
+  - [ ] Welcome to JavaScript - It's 14:20 and I have one heart
   - [ ] Going deeper with JavaScript
   - [ ] Working with Data
   - [ ] Control Flow
