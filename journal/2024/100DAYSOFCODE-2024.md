@@ -8,12 +8,12 @@ The [next certificate](https://www.sololearn.com/en/learn/courses/web-developmen
   - [x] Styling Elements 
   - [x] Page Design and Layout - gonna start this at 10:00
   - [x] Transitions & Transforms 
-  - [ ] Welcome to JavaScript - It's 14:20 and I have one heart
-  - [ ] Going deeper with JavaScript
-  - [ ] Working with Data
+  - [x] Welcome to JavaScript - It's 14:20 and I have one heart
+  - [x] Going deeper with JavaScript
+  - [ ] Working with Data - It's 16:08, I'm tired and have one heart again. Ngizoqedela ekhaya.
   - [ ] Control Flow
 
-Wait, kanti I am half-way there! That's actually good. :)
+(This comment was made in the morning) Wait, kanti I am half-way there! That's actually good. :)
 ## 11 March 2024 (022)
 Before I say what my plans for the week are perhaps I should quickly mention what I was up to during the weekend. Well, my laptop is dying and takes too long to start up so for the most part I did SoloLearn lessons using my phone. It paid off some-what...
 
