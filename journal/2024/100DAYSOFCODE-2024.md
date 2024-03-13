@@ -1,3 +1,11 @@
+## 13 March 2024
+
+09:30
+
+It only took me 3 days :smile: - why did I avoid this course for the longest time? The fact that something is going to take a while doesn't mean that it will never be finished. I need to develop an attitude of grit, to persist even when progress doesn't seem so apparent. Right now my gauge for progress are these certificates - consistency, follow-through and hours spent on a subject or thing should be things I use more often. I need to believe that allocating time to studying WILL bring results.
+
+![and the web dev deep dive begins](../../assets/certificates/sololearn-web-development.jpg)
+
 ## 12 March 2024
 The [next certificate](https://www.sololearn.com/en/learn/courses/web-development) is proving to be a little difficult. I've barely made a dent in the course - LOOK:
   - [x] Getting Started with HTML
