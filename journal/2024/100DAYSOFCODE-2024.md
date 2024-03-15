@@ -1,3 +1,6 @@
+## 15 March 2024
+Days are tough. It's getting colder and there's all this talk about Devin. Should I keep on studying seriously or should I look into prompt engineering and data analysis? Sigh, I really need to shake off these doubts because I really won't be productive like this.
+
 ## 14 March 2024
 I want to watch SpoonFedStudy's [YouTube video](https://www.youtube.com/watch?v=FC4jcrB4RHc) on repeat the entire day. I have been starting to feel like I am not making a dent in my studies and self-improvement journey and was tempted to quit because it seems pointless. The guy is making sense. I should focus on putting the best I can at any given moment, and realise that future me is relying on me. I need to work at making instant gratification lose it's shine, and do more things that add value to my life.
 
