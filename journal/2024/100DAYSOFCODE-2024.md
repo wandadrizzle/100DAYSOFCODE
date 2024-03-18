@@ -1,3 +1,6 @@
+## 18 March 2024
+What day am I on? 29! Oh, my! I'm almost at 30. I want to toot my own horn for not breaking my streak but at the same time it must be said that I spent the weekend watching season 1 of Extraordinary Attorney Woo. Loadshedding was behaving, had network but I brewed in my existential crisis. This week I need to do better. I mean, my goodreads count is increasing but there are no new self-help or coding books. What a wow, that and LinkedInLearning progress is low. The ~16 hours it took a kdrama season could have been used for better pursuits.
+
 ## 15 March 2024
 Days are tough. It's getting colder and there's all this talk about Devin. Should I keep on studying seriously or should I look into prompt engineering and data analysis? Sigh, I really need to shake off these doubts because I really won't be productive like this.
 
