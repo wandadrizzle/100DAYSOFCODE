@@ -1,3 +1,25 @@
+## 19 March 2024
+Lately I've been leaning a lot towards DATA - hence this persistent Python phase. I have been told that Python is a verstile language that also holds some relevance in web development. To be honest I am still not sure ukuthi in which context but I am going to go ahead and believe that spending time seriously learning Python won't be time wasted.
+
+I probably shouldn't be relying on one platform for this, but SoloLearn certificates have become sorta like Pokemon and I just gotta catch them all. These are the ones I am working on this week:
+
+- [ ] [Python Developer](https://www.sololearn.com/en/learn/courses/python-developer)
+- [ ] [Coding for Data](https://www.sololearn.com/en/learn/courses/data-programming)
+- [ ] [C# Intermediate](https://www.sololearn.com/en/learn/courses/c-sharp-intermediate)
+
+LinkedIn Learning TO-DO:
+- [ ] [Becoming a Programmer: Foundations](https://www.linkedin.com/learning/paths/become-a-programmer-foundations) learning path
+- [ ] [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650) course
+- [ ] [Learning C#](https://www.linkedin.com/learning/learning-c-sharp-8581491) course
+
+Oh, shnap. Why do I still watch series when there is just so much to do?
+- [ ] [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) with freeCodeCamp and Microsoft Learn
+- [ ] I started a Dataquest [Junior Data Analyst](https://app.dataquest.io/learning/path/) course at the beginning of this month. I need to pick it up again!
+- [ ] Whoosah! I need to live out Trey Kennedy's motto - DO LESS. GOD BLESS. My brain just thoughts[REMEMBER ME!](https://skillsforall.com/course/introduction-data-science?courseLang=en-US) - Wena, you didn't finish CICSO's Introduction to Data Science. Hebana! Focus. What is going to be? This or front end development? REALISTIC GOALS BABE! Make them realistic.
+
+Here's a little FYI. Grid is doing a Coursera thing - when time allows, consider jumping on the band wagon.
+
+![course goals](../../assets/screenshots/coursera-ibm-data-science.PNG)
 ## 18 March 2024
 What day am I on? 29! Oh, my! I'm almost at 30. I want to toot my own horn for not breaking my streak but at the same time it must be said that I spent the weekend watching season 1 of Extraordinary Attorney Woo. Loadshedding was behaving, had network but I brewed in my existential crisis. This week I need to do better. I mean, my goodreads count is increasing but there are no new self-help or coding books. What a wow, that and LinkedInLearning progress is low. The ~16 hours it took a kdrama season could have been used for better pursuits.
 
