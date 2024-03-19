@@ -23,6 +23,8 @@ Here's a little FYI. Grid is doing a Coursera thing - when time allows, consider
 
 Girl! Happy 30 days of consistency! Now you have 70 days to get your act together. All these plans, but no talk of CSS, HTML, TypeScript and Angular. Njani?! SQL and MongoDB wona? Actually I won't let you beat yourself up for this - imma breathe and trust the process. There has to be a method to this madness.
 
+It took me a while, but I'm finally here...
+![Here's to certificate 4 out of 13](../../assets/screenshots/programming-foundations-object-oriented-design.PNG)
 ## 18 March 2024
 What day am I on? 29! Oh, my! I'm almost at 30. I want to toot my own horn for not breaking my streak but at the same time it must be said that I spent the weekend watching season 1 of Extraordinary Attorney Woo. Loadshedding was behaving, had network but I brewed in my existential crisis. This week I need to do better. I mean, my goodreads count is increasing but there are no new self-help or coding books. What a wow, that and LinkedInLearning progress is low. The ~16 hours it took a kdrama season could have been used for better pursuits.
 
