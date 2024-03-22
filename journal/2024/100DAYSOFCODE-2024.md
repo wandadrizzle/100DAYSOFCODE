@@ -1,8 +1,13 @@
-## 21 March 2024
-It's almost 03:50 and I have not only saved my SoloLearn streak (32 days), my #100DaysOfReplitCode (13 days) streak and even Duolingo streak (112 days). Now I need to keep this groove for the rest of the day.
+## 22 March 2024
+I think I am a fool and really need to reframe how I view long weekends and holidays. Instead of seeing them as time to grind I chilled a little too much. I still managed to work on this though so HOORAH!!
 
--Kaggle
--Course Careers
+![intermediate C# certificate of completion](../../assets/certificates/sololearn-csharp-intermediate.jpg)
+
+## 21 March 2024
+It's almost 03:50 and I have not only saved my SoloLearn streak (32 days), my #100DaysOfReplitCode (13 days) streak and even Duolingo streak (113 days). Now I need to keep this groove for the rest of the day.
+
+- Kaggle
+- Course Careers
 ## 19 March 2024
 Lately I've been leaning a lot towards DATA - hence this persistent Python phase. I have been told that Python is a verstile language that also holds some relevance in web development. To be honest I am still not sure ukuthi in which context but I am going to go ahead and believe that spending time seriously learning Python won't be time wasted.
 
