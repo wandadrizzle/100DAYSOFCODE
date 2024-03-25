@@ -1,3 +1,22 @@
+## 25 March 2024
+How is it that I didn't get much done this long weekend? Procastination is a disease and I am apparently stage 4. Insert Michael Jordan saying "Stop it! Get Help" here.
+
+Anyway, I think it's happening again. 
+
+- [Learn HTML](https://www.learn-html.org/)
+- [Learn Python](https://www.kaggle.com/learn/python)
+
+Why am I creating new lists before completing everything else I saught out to do? ANGAZI. 😭😭😭
+
+### Anyway, here's my real list for the week:
+
+- [ ] Finish CISCO's Networking Academy's - Introduction to Data Science
+- [ ] [LinkedIn Learning's - Python's Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650)
+- [ ] [LinkedIn Learning's - Learning C#](https://www.linkedin.com/learning/learning-c-sharp-8581491)
+- [ ] [Foundational C# with Microsoft Learn](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+- [ ] #Replit100DaysOfCode
+- [ ] Complete [Coding for Data](https://www.sololearn.com/en/learn/courses/data-programming) and [Python Developer](https://www.sololearn.com/en/learn/courses/python-developer) courses on SoloLearn
+
 ## 22 March 2024
 I think I am a fool and really need to reframe how I view long weekends and holidays. Instead of seeing them as time to grind I chilled a little too much. I still managed to work on this though so HOORAH!!
 
