@@ -8,6 +8,10 @@ It's 10:15 and Google, more specifically developers.google.com, is what's drawin
 
 Hebana, the last I got a Google for Developers bagde was on the 14th of August 2023?! TSHINEKE!
 
+It's 11:00 and my biggest takeaway from [Search Techniques for Web Developers](https://www.linkedin.com/learning/search-techniques-for-web-developers) is that I'm not using this journal well. Instead of using it to document my learning journey and practiced articulating what I have learnt - I am using it as a TO-DO list of sorts and a subpar tracker of my progress. Find attached below yet another certificate of progress, it turns out I really needed it since my "learn-to-be-a-better-programmer" goals are flawed. I can't really track my progress without points and certificates it seems. 🤦🤦
+
+![a linked in certificate of completion](../../assets/screenshots/coc-search-techniques-for-web-devs.PNG)
+
 ## 25 March 2024
 How is it that I didn't get much done this long weekend? Procastination is a disease and I am apparently stage 4. Insert Michael Jordan saying "Stop it! Get Help" here.
 
