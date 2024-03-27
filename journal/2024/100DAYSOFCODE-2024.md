@@ -1,3 +1,13 @@
+## 27 March 2024
+It's 10:15 and Google, more specifically developers.google.com, is what's drawing my attention:
+
+- [Learn Privacy](https://web.dev/learn/privacy?hl=en)
+- [Associate Android Development](https://developers.google.com/certification/associate-android-developer)
+- [Building Scalable Angular apps](https://developers.google.com/learn/pathways/maintainable-scalable-web-apps?hl=en)
+- [Building cross-platform Angular apps](https://developers.google.com/learn/pathways/cross-platform-apps-with-angular?hl=en)
+
+Hebana, the last I got a Google for Developers bagde was on the 14th of August 2023?! TSHINEKE!
+
 ## 25 March 2024
 How is it that I didn't get much done this long weekend? Procastination is a disease and I am apparently stage 4. Insert Michael Jordan saying "Stop it! Get Help" here.
 
