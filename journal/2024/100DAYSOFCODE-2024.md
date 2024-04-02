@@ -3,6 +3,10 @@
 - Current SoloLearn Streak is 44!
 
 ![algorithms certificate of completion](../../assets/screenshots/coc-pf-algorithms.PNG)
+
+I need to do more this month.
+
+![sololearn coc - coding for data](../../assets/certificates/sololearn-coding-for-data.jpg)
 ## 27 March 2024
 It's 10:15 and Google, more specifically developers.google.com, is what's drawing my attention:
 
