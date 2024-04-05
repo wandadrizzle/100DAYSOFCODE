@@ -1,3 +1,7 @@
+## 05 April 2024
+![beginner html certificate](../../assets/screenshots/coc-html-for-programmers.PNG)
+
+After this I need to spend some time revising the DOM
 ## 02 April 2024 (Day 044 of 100)
 - 25 Days of 100 Days of Replit Code
 - Current SoloLearn Streak is 44!
