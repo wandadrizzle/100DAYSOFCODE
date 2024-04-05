@@ -13,3 +13,4 @@ Here are my #100DaysOfCode repo links:
 - [SoloLearn's Coding Foundations](https://github.com/wandadrizzle/Coding-Foundations-SoloLearn)
 - [SoloLearn's Web Development couse](https://github.com/wandadrizzle/web-development-recap/tree/main/sololearn)
 - [SoloLearn's Intermediate C# 'Coffee Time' code project](https://github.com/wandadrizzle/sololearn-intermediate-csharp-coffee-time) - 22 March 2024
+- [LinkedIn's HTML for Programmers](https://github.com/wandadrizzle/html-for-programmers) - 05 March 2024
