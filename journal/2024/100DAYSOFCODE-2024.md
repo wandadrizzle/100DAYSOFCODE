@@ -1,3 +1,7 @@
+## 08 April 2024 (Day 050 of 100)
+![html essential training certificate](../../assets/screenshots/coc-html-essential-training.PNG)
+
+Spend some more time on HTML and gradually introduce CSS as you go along.
 ## 05 April 2024
 ![beginner html certificate](../../assets/screenshots/coc-html-for-programmers.PNG)
 
