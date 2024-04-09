@@ -1,3 +1,8 @@
+## 09 April 2024
+![html essential training certificate](../../assets/screenshots/coc-web-programming-foundations.PNG)
+
+During the course I learnt that accessibility should be a web developer's priority.
+
 ## 08 April 2024 (Day 050 of 100)
 ![html essential training certificate](../../assets/screenshots/coc-html-essential-training.PNG)
 
