@@ -14,4 +14,6 @@ Here are my #100DaysOfCode repo links:
 - [SoloLearn's Web Development couse](https://github.com/wandadrizzle/web-development-recap/tree/main/sololearn)
 - [SoloLearn's Intermediate C# 'Coffee Time' code project](https://github.com/wandadrizzle/sololearn-intermediate-csharp-coffee-time) - 22 March 2024
 - [LinkedIn's HTML for Programmers](https://github.com/wandadrizzle/html-for-programmers) - 05 March 2024
-- [LinkeIn's HTML Essential Training](https://github.com/wandadrizzle/ll-html-essential-training) - 08 March 2024
+- [LinkedIn's HTML Essential Training](https://github.com/wandadrizzle/ll-html-essential-training) - 08 March 2024
+- [LinkedIn's CSS for Programmers](https://github.com/wandadrizzle/ll-css-for-developers) - 09 March 2024
+- [LinkedIn's CSS Essential Training](https://github.com/wandadrizzle/ll-css-essential-training) 
