@@ -3,6 +3,12 @@
 
 During the course I learnt that accessibility should be a web developer's priority.
 
+TIME for some CSS
+
+- [ ] [CSS for Developers](https://www.linkedin.com/learning/css-for-programmers/css-for-developers)
+- [ ] [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-22688362)
+- [ ] [Supercharge your CSS](https://www.linkedin.com/learning/css-tips/supercharge-your-css)
+
 ## 08 April 2024 (Day 050 of 100)
 ![html essential training certificate](../../assets/screenshots/coc-html-essential-training.PNG)
 
