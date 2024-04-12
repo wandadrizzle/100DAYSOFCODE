@@ -1,3 +1,8 @@
+## 12 April 2024 (054)
+I am running out of relevant sololearn courses to do!
+
+![sololearn Python developer certificate](../../assets/certificates/sololearn-python-developer.jpg)
+
 ## 09 April 2024
 FOCUSING ON THE MAIN THING - web development!
 
