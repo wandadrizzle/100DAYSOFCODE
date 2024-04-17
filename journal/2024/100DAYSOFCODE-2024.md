@@ -1,3 +1,12 @@
+## 17 April 2024 (059)
+I like having evidence for my streaks so...
+
+![sololearn streak](../../assets/screenshots/sololearn-streak.PNG)
+![sololearn streak](../../assets/screenshots/sololearn-streak.PNG)
+
+![replit streak](../../assets/screenshots/oh-python.PNG) 
+
+
 ## 12 April 2024 (054)
 I am running out of relevant sololearn courses to do!
 
